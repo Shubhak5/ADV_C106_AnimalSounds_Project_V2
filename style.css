@@ -16,4 +16,17 @@
         margin-top: 15px;
         border: 1px solid;
         letter-spacing: 5px;
+        font-weight: bolder;
+    }
+    
+    .copyRightFooter {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        font-size: 18px;
+        color: gray;
+        background-color: white;
+        text-align: center;
+        line-height: 3;
+        text-shadow: 5px 5px 5px rgb(160, 149, 149);
     }
