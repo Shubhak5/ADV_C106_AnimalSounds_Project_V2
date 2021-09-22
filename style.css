@@ -12,6 +12,11 @@
         letter-spacing: 10px;
     }
     
+    .mainDiv {
+        font-family: 'Architects Daughter', cursive;
+        letter-spacing: 3px;
+    }
+    
     #btnStart {
         margin-top: 15px;
         border: 1px solid;
