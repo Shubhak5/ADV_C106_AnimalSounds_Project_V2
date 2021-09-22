@@ -1,0 +1,19 @@
+    body {
+        background-color: lightgray;
+    }
+    
+    .divHeading {
+        background-color: grey;
+        color: white;
+    }
+    
+    .divHeading h3 {
+        font-family: 'Architects Daughter', cursive;
+        letter-spacing: 10px;
+    }
+    
+    #btnStart {
+        margin-top: 15px;
+        border: 1px solid;
+        letter-spacing: 5px;
+    }
